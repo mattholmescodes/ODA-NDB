@@ -1,0 +1,51 @@
+.container {
+    width: 70%;
+    margin: auto;
+    text-align: center;
+}
+
+.dice {
+    text-align: center;
+    display: inline-block;
+}
+
+body {
+    background-color: #004AAD;
+}
+
+h1 {
+    margin: 30px;
+    font-family: 'Permanent Marker';
+    font-size: 100px;
+    color: #d9e3f0;
+}
+
+p {
+    font-size: 2rem;
+    color: #d9e3f0;
+    font-family: 'Oswald', cursive;
+
+img {
+    width: 75%;
+}
+
+.button-container {
+    margin-top: 2rem;
+    width: 100%;
+    height: 70px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+button {
+    width: 40%;
+    height: 820%;
+    font-size: 24px;
+    color: darkseagreen;
+    border: none;
+    outline: none;
+    cursor: pointer;
+    border-radius: 5px;
+    background-color: #d9e3f0;
+}
