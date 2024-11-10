@@ -52,3 +52,20 @@
     border-radius: 5px;
     background-color: #d9e3f0;
   }
+  .credit {
+    margin-top: 5%;
+    color: #ffffff;
+    text-align: center;
+    font-family: 'Oswald', cursive;
+    font-size: 1.5rem;
+    text-shadow: none;
+  }
+  
+  footer {
+    margin-top: 5%;
+    color: #ffffff;
+    text-align: center;
+    font-family: 'Permanent Marker', cursive;
+    font-size: 2rem;
+    text-shadow: 5px 0 #232931;
+  }
