@@ -4,7 +4,7 @@
 
 In this brand new concept you will be pitting your luck against your friends.. Will you come out on top, or will you be buying this weeks groceries?
 
-Find out with ODA-NDB!!
+###                        Find out with ODA-NDB!!
 
 ## Created With:
 
