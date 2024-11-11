@@ -12,6 +12,16 @@ const newRandDice = "./Images/" + newRandNum + ".png";
 
 const img2 = document.querySelectorAll("img") [1];
 img2.setAttribute("src", newRandDice);
+
+if (randNum > newRandNum) {
+    document.querySelector("h1").innerHTML = "Player One Wins!!";
+}
+else if (newRandNum > randNum) {
+    document.querySelector("h1").innerHTML = "Player Two Wins!!";
+}
+else {
+    document.querySelector("h1").innerHTML = "It's a draw, please roll again!!";
+}
 }
 
 const button = document.querySelector("button");
